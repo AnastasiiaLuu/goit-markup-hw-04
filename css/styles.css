@@ -182,6 +182,8 @@ nav {margin-right: auto;}
       background-image: linear-gradient(rgba(46, 47, 66, 0.7), rgba(46, 47, 66, 0.7)),
       url("../images/section-one/people-office.jpg");
       background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
      }
 
       .banner-item-section-title {
