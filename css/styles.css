@@ -216,7 +216,7 @@ nav {margin-right: auto;}
       .notitia {display: flex;
         gap: 24px;}
 
-        .notitia-item {width: calc((100% - 72px) / 4);}
+      .notitia-item {width: calc((100% - 72px) / 4);}
         
 
   .benefits-paragf
