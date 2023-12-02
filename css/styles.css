@@ -263,6 +263,13 @@ nav {margin-right: auto;}
 
   .frame {border: #2E2F42;}
 
+  .social-list {display: flex;
+  justify-content: center;
+  gap: 24px;}
+
+  .social-list-link {display: block;
+  line-height: 0;}
+
 /* ============== SECTION-THREE STYLES ============== */
 
 
