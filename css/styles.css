@@ -141,7 +141,18 @@ nav {margin-right: auto;}
     letter-spacing: 0.02em;
     padding-top: 32px;
     padding-bottom: 32px;
-    padding: 24px 0;}
+    padding: 24px 0;
+    position: relative;
+  }
+
+  .nav-link::after {content: '';
+  position: absolute;
+  left: 0;
+  bottom: -1px;
+  height: 4px;
+  background-color: #404bbf;
+  border-radius: 2px;}
+  
 
   .nav-link:hover, .nav-link:focus, nav-link:active {color: #404BBF ;}
 
