@@ -330,8 +330,6 @@ nav {margin-right: auto;}
   }
 
 
-
-
   .p-overley {
       position: absolute;
       top: 0;
@@ -351,6 +349,8 @@ nav {margin-right: auto;}
     .overley-list {position: relative;
       overflow: hidden;}
 
+
+    .element-list:hover .p-overley {transform: translateY(0%);}
 
   /* ============== SECTION-FOUR STYLES ============== */  
 
