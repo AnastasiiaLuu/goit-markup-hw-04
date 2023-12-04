@@ -439,9 +439,11 @@ nav {margin-right: auto;}
   margin-bottom: 16px;}
  
 
-  .back-two {display: flex;
+  .the-end-two {display: flex;
   align-items: baseline;
-margin-right: 120px;}
+}
+
+.footer-logo {margin-right: 120px;}
 
 /* ============== FOOTER STYLES ============== */
     
