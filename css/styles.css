@@ -217,14 +217,7 @@ nav {margin-right: auto;}
         margin-bottom: 48px;
     }
 
-       .icons-one {display: flex;
-      align-items: center;
-      justify-content: center;
-      height: 112px;
-      background-color: #f4f4fd;
-      border-radius: 4px;
-      margin-bottom: 8px;}
-
+      
     /* ============== SECTION-ONE STYLES ============== */
 
 
@@ -262,6 +255,18 @@ nav {margin-right: auto;}
             font-weight: 400;
             line-height: 1.5; /* 150% */
             letter-spacing: 0.02em;}
+
+    .icons-one {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 112px;
+      width: 264px;
+      background-color: #f4f4fd;
+      border-radius: 4px;
+      margin-bottom: 8px;
+      border: 1px solid var(--LIGHT-SLATE, #8e8f99);
+    }
 
   /* ============== SECTION-TWO STYLES ============== */
 
