@@ -311,20 +311,17 @@ nav {margin-right: auto;}
   gap: 24px;}
 
     .social-list-link {
-      display: block;
+      display: flex;
       line-height: 0;
       width: 40px;
       height: 40px;
+      background-color: #4d5ae5;
+      border-radius: 50%;
+      align-items: center;
+      justify-content: center;
     }
 
-.social-list-icon {background-color: #4d5ae5;
-border-radius: 50%;
-display: flex;
-align-items: center;
-justify-content: center;}
 
-.social-list-icon:hover {background-color: #404bbf;}
-.social-list-icon:focus {background-color: #404bbf;}
 
 /* ============== SECTION-THREE STYLES ============== */
 
