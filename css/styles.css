@@ -437,6 +437,11 @@ nav {margin-right: auto;}
   letter-spacing: 0.02em;
   color: #FFFFFF;
   margin-bottom: 16px;}
+ 
+
+  .back-two {display: flex;
+  align-items: baseline;
+margin-right: 120px;}
 
 /* ============== FOOTER STYLES ============== */
     
