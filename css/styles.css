@@ -304,8 +304,10 @@ nav {margin-right: auto;}
   justify-content: center;
   gap: 24px;}
 
-  .social-list-link {display: block;
-  line-height: 0;}
+    .social-list-link {
+      display: block;
+      line-height: 0;
+    }
 
 /* ============== SECTION-THREE STYLES ============== */
 
